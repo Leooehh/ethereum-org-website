@@ -63,7 +63,7 @@ The Sepolia network uses a permissioned validator set. It's fairly new, meaning 
 - [Infura Sepolia faucet](https://www.infura.io/faucet)
 - [Chainstack Sepolia faucet](https://faucet.chainstack.com/sepolia-faucet)
 - [Ethereum Ecosystem faucet](https://www.ethereum-ecosystem.com/faucets/ethereum-sepolia)
-
+- [PoW SepoFaucet](https://sepolia.sepofaucet.xyz)
 #### Goerli _(long-term support)_ {#goerli}
 
 _Note: [the Goerli testnet is deprecated](https://ethereum-magicians.org/t/proposal-predictable-ethereum-testnet-lifecycle/11575/17) and will be replaced by [Holesovice](https://github.com/eth-clients/holesovice) in 2023. Please consider migrating your applications to Sepolia._
@@ -105,6 +105,7 @@ A testnet for [Arbitrum](https://arbitrum.io/).
 ##### Faucets
 
 - [Chainlink faucet](https://faucets.chain.link/)
+- [Arbitrum Sepolia PoW Faucet - SepoFaucet](https://arbitrum.sepofaucet.xyz)
 
 #### Optimistic Goerli {#optimistic-goerli}
 
@@ -114,6 +115,7 @@ A testnet for [Optimism](https://www.optimism.io/).
 
 - [Paradigm faucet](https://faucet.paradigm.xyz/)
 - [Coinbase Wallet Faucet | Optimism Goerli](https://coinbase.com/faucets/optimism-goerli-faucet)
+- [Optimism Sepolia PoW Faucet - SepoFaucet](https://optimism.sepofaucet.xyz)
 
 #### Starknet Goerli {#starknet-goerli}
 
